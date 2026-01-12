@@ -22,3 +22,21 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+.blog-post {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.blog-post h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.blog-post .date {
+    color: #666;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
