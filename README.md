@@ -1,6 +1,13 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website showcasing my projects and skills.
+Version: 1.0
+
+## Release Notes - v1.0
+- Initial portfolio structure
+- About page
+- Contact form
+- Blog section with 3 posts
+- Responsive styling
 
 ## Technologies Used
 - HTML5
